@@ -1,0 +1,52 @@
+body {
+  background-color:hsl(168, 77%, 25%);
+
+}
+h1 {
+  
+color: white;
+text-align: center;
+}
+h4 {
+  
+  color: white;
+  text-align: center;
+  }
+  span {
+  
+  color:aliceblue;
+    text-align: center;
+    }
+
+.fotoPortada {
+  width: 700px;
+  height: 400px;
+}
+.parrafo {
+  color: rgb(255, 227, 201);
+  text-align: justify;
+  font-size: 17px;
+}
+
+.naranja {
+  color:aliceblue;
+}
+
+.card{
+  background-color: rgb(105, 235, 181);
+}
+.containercard{
+  display:inline-flex;s
+  width: 100%;
+}
+.cardcontainer{
+  margin-left: 2.7%;
+}
+.cardtextopeque{
+  font-size: 14px;
+}
+.textofooter{
+  padding-bottom: 3%;
+  padding-left: 3%;
+  color:aliceblue
+}
